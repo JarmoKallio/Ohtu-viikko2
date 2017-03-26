@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtuesimerkki.StaticsticsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-03-26T08:16:14" hostname="Kone" time="0.029">
+  <properties/>
+  <testcase name="teamToimii" classname="ohtuesimerkki.StaticsticsTest" time="0.012"/>
+  <testcase name="topScorersToimii" classname="ohtuesimerkki.StaticsticsTest" time="0.001"/>
+  <testcase name="koklaus" classname="ohtuesimerkki.StaticsticsTest" time="0.001"/>
+  <testcase name="searchToimiiKunEiLoydyPelaajaa" classname="ohtuesimerkki.StaticsticsTest" time="0.001"/>
+  <testcase name="talletusToimii" classname="ohtuesimerkki.StaticsticsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
